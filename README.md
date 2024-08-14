@@ -1,2 +1,2 @@
 # Gen-AI
-simple calculator with python and streamlit
+ initial simple calculator with python and streamlit
